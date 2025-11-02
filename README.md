@@ -15,7 +15,7 @@
 
 ## 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,tailwind,nodejs,mysql,docker,kubernetes,cloudflare,workers,aws,git,github,githubactions&theme=dark&perline=10" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,nodejs,mysql,docker,kubernetes,cloudflare,workers,aws,git,github&theme=dark&perline=10" alt="Skills" />
 </p>
 
 <br/>
