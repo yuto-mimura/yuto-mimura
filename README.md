@@ -1,71 +1,67 @@
-<!-- Profile views (Komarev) -->
+<!-- Profile views -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=mimurayuto" alt="profile views" />
 </div>
 
-# Hi, I'm Mimura Yuto 👋
+# Mimura Yuto
 
-- 🧑‍💻 Backend-oriented student engineer @ Kobe Univ (Info & Intelligent Systems)
-- 🚀 Interested in **performance tuning**, **DDD/Clean Architecture**, and **microservices**
-- 🔭 Recently using **Go (Echo/Gin)**, **TypeScript (React/Next.js/Hono)**, **MySQL/Prisma**, **Cloudflare/AWS**
-- 📚 Learning: **Kubernetes**, **Cloud-native**, **full-stack-TypeScript**, **microservice-archtecture**
-- 📝 I like schema-driven-development / codegen flows (OpenAPI → Orval / Swaggo etc...)
+I am a student at Kobe University learning Information & Intelligent Systems.
 
-<br/>
+I focus on backend development and system design.
 
-## 🧰 Tech Stack
+I am interested in building reliable backend systems and learning modern web infrastructure.
+
+---
+
+## Tech Stack
+
+### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,nodejs,mysql,docker,kubernetes,cloudflare,workers,aws,git,github&theme=dark&perline=10" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python,java,php,c,cpp,&theme=dark" height="40" />
 </p>
 
-<br/>
+### Frameworks / Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,hono&theme=dark" height="40" />
+</p>
 
-## 📌 Featured Work / Interests
-- Backend APIs with **DDD + Clean Architecture** (Go / TypeScript)
-- **large-scale** performance tuning / microservice / modular monolith
-- **AWS ECS/RDS/S3/CloudFront**
-- Interested in **K8s** (service discovery, deployments, observability)
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongo,firebase&theme=dark" height="40" />
+</p>
 
-<br/>
+### Cloud / Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker&theme=dark" height="40" />
+</p>
 
-## 🏃‍♂️ Activities
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="40" />
+</p>
+
+---
+
+## Interests & Work
+
+- Backend development using Go and TypeScript  
+- Schema-driven development and API-first design  
+- Cloud native platforms (Cloudflare Workers, AWS)  
+- Learning Kubernetes and cloud-native architectures  
+- Building small-to-mid scale services with maintainable structures
+- Interested in working on backend engineering in high-traffic environments.
+
+---
+
+## GitHub Activity
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <!-- GitHub Stats -->
+  <!-- <img 
+    src="https://github-readme-stats.vercel.app/api?username=yuto-mimura&show_icons=true&theme=vue-dark" 
+    height="170"
+  /> -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=yuto-mimura&amp;show_icons=true&amp;theme=vue-dark" 
-    alt="stats" 
-    height="170" 
-  />
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuto-mimura&amp;layout=compact&amp;theme=vue-dark" 
-    alt="top langs" 
-    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuto-mimura&layout=compact&theme=vue-dark" 
+    height="170"
   />
 </div>
-
-<br/>
-
-<!-- Streak stats -->
-<p align="left">
-  <img 
-    src="https://streak-stats.demolab.com?user=yuto-mimura&amp;theme=vue-dark" 
-    alt="streak" 
-  />
-</p>
-
-<br/>
-
-## 🔗 Links
-<p align="left">
-  <a href="https://zenn.dev/yuuuuuuuuu" target="_blank">
-    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
-  </a>
-</p>
-
-<!--
-Tips:
-- ピン留めリポジトリを使って、実務・学習の代表作（Go+Echo API、Hono+Workers、K8s演習など）を固定表示すると効果的。
-- READMEは定期的に更新して、現在の興味（性能改善/観測性/スキーマ駆動開発など）を短文で追記。
--->
