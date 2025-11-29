@@ -22,7 +22,7 @@ I am interested in building reliable backend systems and learning modern web inf
 
 ### Frameworks / Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,hono&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel&theme=dark" height="40" />
 </p>
 
 ### Databases
