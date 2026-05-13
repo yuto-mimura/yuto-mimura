@@ -1,67 +1,54 @@
-<!-- Profile views -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=mimurayuto" alt="profile views" />
-</div>
-
 # Mimura Yuto
 
-I am a student at Kobe University learning Information & Intelligent Systems.
+Student at Kobe University, studying Information & Intelligent Systems.
 
-I focus on backend development and system design.
-
-I am interested in building reliable backend systems and learning modern web infrastructure.
-
----
+I am interested in backend development, system design, and cloud-native infrastructure.
 
 ## Tech Stack
 
 ### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,python,java,php,c,cpp,&theme=dark" height="40" />
-</p>
+
+- Go
+- TypeScript
+- JavaScript
+- Python
 
 ### Frameworks / Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel&theme=dark" height="40" />
-</p>
+
+- React
+- Next.js
+- Node.js
+- Hono
 
 ### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongo,firebase&theme=dark" height="40" />
-</p>
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- Firestore
 
 ### Cloud / Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker&theme=dark" height="40" />
-</p>
+
+- AWS
+- Google Cloud
+- Docker
+- Kubernetes
 
 ### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="40" />
-</p>
 
----
+- Git
+- GitHub
 
-## Interests & Work
+## Interests
 
-- Backend development using Go and TypeScript  
-- Schema-driven development and API-first design  
-- Cloud native platforms (Cloudflare Workers, AWS)  
-- Learning Kubernetes and cloud-native architectures  
-- Building small-to-mid scale services with maintainable structures
-- Interested in working on backend engineering in high-traffic environments.
+- Backend development
+- API design
+- Schema-driven development
+- System design
+- Cloud-native architecture
+- Kubernetes
+- Reliable and maintainable backend systems
 
----
+## Research
 
-## GitHub Activity
-
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <!-- <img 
-    src="https://github-readme-stats.vercel.app/api?username=yuto-mimura&show_icons=true&theme=vue-dark" 
-    height="170"
-  /> -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuto-mimura&layout=compact&theme=vue-dark" 
-    height="170"
-  />
-</div>
+I am currently studying efficient computation for large language models, especially around sparsity and hardware-aware optimization.
